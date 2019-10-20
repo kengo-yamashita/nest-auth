@@ -1,0 +1,12 @@
+GET http://localhost:3000/user-master
+
+###
+
+POST http://localhost:3000/user-master
+Content-Type: application/json
+
+{
+    "name": "test",
+    "password": "test",
+    "favNum": 1
+}
