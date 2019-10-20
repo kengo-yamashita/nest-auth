@@ -5,3 +5,8 @@ Content-Type: application/json
     "username": "test",
     "password": "test"
 }
+
+###
+
+GET http://localhost:3000/auth/profile
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE1NzE1ODI0ODIsImV4cCI6MTU3MTU4NjA4Mn0.XB5HFT66pHUw9Gyvf0kuGF70MbDfLTAFULz05qcWFbg
