@@ -22,6 +22,10 @@
     "@nestjs/common": "^6.0.0",
     "@nestjs/core": "^6.0.0",
     "@nestjs/platform-express": "^6.0.0",
+    "@nestjsx/crud": "^4.2.0",
+    "@nestjsx/crud-typeorm": "^4.2.0",
+    "class-transformer": "^0.2.3",
+    "class-validator": "^0.10.2",
     "reflect-metadata": "^0.1.12",
     "rimraf": "^2.6.2",
     "rxjs": "^6.3.3"
